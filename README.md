@@ -19,10 +19,10 @@
 </div>
 
 <h2>Find me here🔗 </h2> 
-    <a href="https://www.linkedin.com/in/devansh-shah-8b598b192/">
+    <a href="https://www.linkedin.com/in/jay-malave-0098a01ba/">
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/turbo_reflex/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/jay.malave/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <h2>NumberGame📈</h2>
 
