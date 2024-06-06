@@ -1,28 +1,7 @@
-
-<div align = "center">
-  <h1>Hello World, Jay Malave here!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-    <p align="center" style="font-size:22px;margin-top:0;border:none">
-        <i>
-         Don't try to inherit my class,
-          You cannot handle the exception I throw✨ 
-        </i>
-    </p>
-    </div>
-<div>
-  <h2>About me📛</h2>
-  <p>
-    <li>I am a budding computer programmer showing unparalleled interests in Web and App Development, Python Automation and Machine Learning</li>
-    <li>I am an avid Equity Markets And Economy Enthusiast who also loves to read novels and self-help books</li>
-    <li>I love to work on projects and come up with new ideas for the same</li>
-    <li>Always on a hunt of productive routines</li>
-  </p>
-</div>
-
 <h2>Find me here🔗 </h2> 
     <a href="https://www.linkedin.com/in/jay-malave-0098a01ba/">
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/jay.malave/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <h2>NumberGame📈</h2>
 
