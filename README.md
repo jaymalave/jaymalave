@@ -12,6 +12,3 @@
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=jaymalave&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Jay's Stats" />
 </a>
 
-<a href="https://github.com/jaymalave">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devansh's streak" src="http://github-readme-streak-stats.herokuapp.com?user=jaymalave&theme=tokyonight&hide_border=true"/>
-</a>
